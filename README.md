@@ -25,8 +25,6 @@ I believe in a world where technology makes everything simpler, including buildi
 
 Alongside all of this, I'm looking for new professional experiences where I can grow, contribute and keep learning. Feel free to reach out!
 
-### 🐍 Snake eating my contributions
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/juliaPamplona/juliaPamplona/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/juliaPamplona/juliaPamplona/output/github-snake.svg" />
